@@ -1,0 +1,9 @@
+.pxl {
+  height: 0;
+  float: left;
+  transition: background-color .4s;
+}
+
+.pxl-container {
+  
+}
